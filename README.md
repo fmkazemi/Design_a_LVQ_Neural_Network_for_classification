@@ -1,0 +1,1 @@
+# Design_a_LVQ_Neural_Network_for_classification
